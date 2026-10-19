@@ -1,7 +1,6 @@
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com/?lines=Olá,bem-vindo+ao+meu+perfil!&font=Fira%20Code&pause=1000&center=false&width=700&height=60&color=F4A6B9&vCenter=true&size=24" />
 </p>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=hipster&weight=900&size=40&pause=1000&color=FFBAD2&multiline=true&repeat=false&width=339&lines=Ol%C3%A1%2C+bem+vindo+ao+meu+perfil%F0%9F%91%8B)](https://git.io/typing-svg)
 
 Meu nome é Maria Luiza e sou estudante do curso Técnico Integrado em Eletrônica no Instituto Federal do Piauí (IFPI) - Campus Teresina Central 
 
